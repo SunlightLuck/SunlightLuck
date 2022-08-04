@@ -68,5 +68,5 @@
 </p>
 
 <h3 align="left">Contact Me</h3>
-<p><h4>📧<h4> <b>sunlight.luck@gmail.com</b></p>
-<p><h4>🗺<h4> <b>Edmonton, Alberta, Canada</b></p>
+<p>📧:<b>sunlight.luck@gmail.com</b></p>
+<p>🗺:<b>Edmonton, Alberta, Canada</b></p>
