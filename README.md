@@ -66,3 +66,7 @@
     </p>
   </div> 
 </p>
+
+<h3 align="left">Contact Me</h3>
+<p>📧 <b>sunlight.luck@gmail.com</b></p>
+<p>🗺 <b>Edmonton, Alberta, Canada</b></p>
